@@ -1,4 +1,4 @@
-# BootCamp Q1 - List to 
+# BootCamp Q1 - Combining all index of list to create a whole number
 def number(myNumber:list[int]):
     total = 0
     multiply = 1
