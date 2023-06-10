@@ -3,8 +3,8 @@ def number(myNumber:list[int]):
     total = 0
     multiply = 1
     for i in reversed(myNumber):
-        add = i * multiply 
-        total += add
+        value = i * multiply 
+        total += value
         multiply *= 10
 
     print(total)
