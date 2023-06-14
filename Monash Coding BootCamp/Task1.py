@@ -1,5 +1,5 @@
 # BootCamp Q1 - Combining all index of list to create a whole number
-def number(myNumber:list[int]):
+def number(myNumber):
     total = 0
     multiply = 1
     for i in reversed(myNumber):
